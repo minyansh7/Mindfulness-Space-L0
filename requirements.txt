@@ -1,0 +1,8 @@
+streamlit>=1.25
+plotly>=5.16
+holoviews==1.15.4
+bokeh == 2.4.3
+pandas>=1.5
+numpy==1.23.5
+pyarrow>=12.0
+matplotlib>=3.5
